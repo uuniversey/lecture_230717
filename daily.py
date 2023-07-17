@@ -37,16 +37,17 @@
 
 #1435
 
-# block1 = '반짝 반짝'
-# block2 = '에서도'
-# block3 = '작은 별'
-# block4 = '아름답게 비치네'
-# block5 = '동쪽 하늘'
-# block6 = '서쪽 하늘'
+block1 = '반짝 반짝'
+block2 = '에서도'
+block3 = '작은별'
+block4 = '아름답게 비치네'
+block5 = '동쪽 하늘'
+block6 = '서쪽 하늘'
 
-# print(block1, block3, block4)
-# print(block5 + block2, block6 + block2)
-# print(block1, block3, block4)
+print(block1, block3[0:2],block3[2:3], block4)
+print(block1, block3, block4)
+print(block5 + block2, block6 + block2)
+print(block1, block3, block4)
 
 
 
@@ -67,8 +68,8 @@
 #1437
 
 
-print (3 * 2)
-print (3 * 3)
-print ((3 * 3) // (3 * 2))
-print ((3 * 3) % (3 * 2))
-print ((3 * 3) + -(3 * 3))
+# print (3 * 2)
+# print (3 * 3)
+# print ((3 * 3) // (3 * 2))
+# print ((3 * 3) % (3 * 2))
+# print ((3 * 3) + -(3 * 3))

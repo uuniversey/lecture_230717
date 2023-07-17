@@ -120,3 +120,11 @@
 #         print('윤년입니다.')
 # else: 
 #     print('평년입니다.')
+
+
+# 2.3.1
+
+family = ['mother', 'father', 'me', 'manjudang']
+
+for x in family:
+    print (x,len(x))
