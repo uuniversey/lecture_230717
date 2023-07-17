@@ -124,7 +124,47 @@
 
 # 2.3.1
 
-family = ['mother', 'father', 'me', 'manjudang']
+# case = int(input())
 
-for x in family:
-    print (x,len(x))
+# for i in range(case):
+#     print('',case)
+
+
+
+# 2.3.2
+
+# case = int(input())
+
+# for i in range(case):
+#     print(i+1, (i+1)*(i+1))
+
+
+# 2.3.3
+
+# min_max = input().split()
+# min = int(min_max[0])
+# max = int(min_max[1])
+
+# min, max = map(int, input().split())
+
+
+# temp = int(input())
+
+# while temp != -999:
+#     if min <= temp <= max:
+#         print('Nothing to report')
+#         temp = int(input())
+#     else:
+#         print('Alert!')
+#         break
+
+
+
+# 3.1.1
+
+def numOfDigits(num):
+    print(len(str(num)))
+
+
+
+# 3.1.2
